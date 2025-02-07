@@ -14,9 +14,7 @@ Este proyecto tiene como finalidad practicar el consumo de APIs REST a través d
 - **RxJS:** Para el manejo de Observables.
 - **HttpClient:** Para realizar las peticiones HTTP.
 
-## Instalación y Ejecución
-
-1. **Clonar el repositorio**
+## Clonar repositorio
 
    ```bash
    git clone https://github.com/alvaroHino10/selectores-paises.git
